@@ -1,0 +1,64 @@
+{
+    "title": "Evidence Synthesis Tools: Archive for directory of strictly open-source software / tools for Evidence Synthesis.",
+    "description": "An Archive for Evidence Synthesis Tools, a curated directory of strictly open-source, non-proprietary software supporting the complete evidence synthesis workflow.",
+    "creators": [
+        {
+            "name": "Sahu, Vihaan",
+            "affiliation": "Georgian National University SEU",
+            "orcid": "0009-0008-5790-1818"
+        }
+    ],
+
+    "upload_type": "software",
+    "publication_type": "software",
+    "license": "Apache-2.0",
+    "version": "1.0",
+    "language": "eng",
+    "access_right": "open",
+    "keywords": [
+        "evidence synthesis",
+        "systematic review",
+        "meta-analysis",
+        "open source",
+        "open science",
+        "research software",
+        "reproducible research",
+        "evidence-based medicine",
+        "risk of bias",
+        "screening tools",
+        "literature review",
+        "research transparency",
+        "FAIR principles",
+        "bibliometrics",
+        "automation",
+        "machine learning",
+        "qualitative synthesis"
+    ],
+    "notes": "This directory includes only tools that meet strict inclusion criteria: (1) released under a recognized open-source license (MIT, GPL, Apache, etc.), (2) public source code repository (GitHub, GitLab, Bitbucket, or similar), (3) no closed-source components or mandatory commercial dependencies, (4) reusable and adequately documented for extension and community development, and (5) relevance to evidence synthesis, systematic reviews, meta-analysis, or related research workflows. Free but closed-source, freemium, or institution-restricted tools are excluded. Contributions are welcome via GitHub issues or pull requests.",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io",
+            "relation": "isSupplementTo",
+            "scheme": "url"
+        },
+        {
+            "identifier": "https://github.com/evidencesynthesis-tools/backwork",
+            "relation": "isDocumentedBy",
+            "scheme": "url"
+        }
+    ],
+    "subjects": [
+        {
+            "term": "Evidence-Based Medicine"
+        },
+        {
+            "term": "Medical Informatics"
+        },
+        {
+            "term": "Research Methods"
+        },
+        {
+            "term": "Open Science"
+        }
+    ]
+}
