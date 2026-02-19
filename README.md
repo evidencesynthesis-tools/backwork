@@ -23,7 +23,7 @@ Please check the main repository for more information: [https://github.com/evide
 This repository is archived on Zenodo:
 
 Sahu, V. (2026). *Evidence Synthesis Tools: Archive for directory of strictly open-source software / tools for Evidence Synthesis.* (Version 1.0). Zenodo.
-[https://doi.org/10.5281/zenodo.18681868](https://doi.org/10.5281/zenodo.18681868)
+[https://doi.org/10.5281/zenodo.18692063](https://doi.org/10.5281/zenodo.18692063). 
 
 ---
 
