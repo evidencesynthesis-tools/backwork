@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Evidence Synthesis Tools: Archive for directory of strictly open-source software / tools for Evidence Synthesis."
+version: "v2.1"
+doi: "10.5281/zenodo.18692063"
+date-released: 2026
+authors:
+  - family-names: "Sahu"
+    given-names: "Vihaan"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Sahu"
+      given-names: "Vihaan"
+  title: "Evidence Synthesis Tools: Archive for directory of strictly open-source software / tools for Evidence Synthesis."
+  version: "v2.1"
+  doi: "10.5281/zenodo.18692063"
+  year: 2026
+  url: "https://doi.org/10.5281/zenodo.18692063"
+
